@@ -82,6 +82,17 @@ body {
   border-bottom: none;
 }
 
+.info-label {
+  display: flex;
+  align-items: center;
+}
+
+.info-label i {
+  margin-right: 10px;
+  color: #2a5298;
+  font-size: 18px;
+}
+
 .information {
   font-weight: bold;
   font-size: 18px;
